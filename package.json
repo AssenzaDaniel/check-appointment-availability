@@ -1,0 +1,12 @@
+{
+  "name": "check-appointment-availability",
+  "version": "1.0.0",
+  "description": "Service that checks if new appointments have been opened in the civil registry and send push notifications via Telegram, in order to notify the user so that they can make the appointment.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Daniel Assenza",
+  "license": "ISC"
+}
